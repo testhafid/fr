@@ -1,0 +1,10 @@
+User-Agent: *
+
+Disallow: /404.html
+Disallow: /_config.yml
+Disallow: /font/
+Disallow: /assets/
+Disallow: /_data/
+Allow: /
+
+sitemap: https://fr.abdelhafidelazouzi.github.io/sitemap.xml
